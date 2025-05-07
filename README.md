@@ -1,0 +1,9 @@
+| Nombre          | Correo                           | Usuario    |
+|-----------------|----------------------------------|------------|
+| Lucas Maldonado | lucas.maldonado@estudiante.uc.cl | maldovvlol |
+| Roger Borges    | rogerborges@estudiante.uc.cl     | oNqughty   |
+
+## Aportes de los integrantes:
+> Lucas: Creacion del repositorio y archivo confidencial
+
+> Roger: Creacion del algoritmo python y informe LATEX
